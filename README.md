@@ -4,9 +4,9 @@
 ![screenshot](screenshot.png)
 
 # Installation
-1. Download zip from releases.
-2. Extract and put encoders in a musicbee folder in a folder called Codec
-3. Go to File -> Edit Preferences -> File Converter
+1. Download zip from [releases](https://github.com/drequeary/musicbee-audio-encoder-pack/releases).
+2. Extract and put encoders in a musicbee folder in a folder called Codec.
+3. Go to File -> Edit Preferences -> File Converters.
 4. Under encoder location, select the exe file for the choosen encoder.
 
 ## Note

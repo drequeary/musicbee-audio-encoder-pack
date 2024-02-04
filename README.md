@@ -1,7 +1,8 @@
 # musicbee-audio-encoder-pack
  A pack of audio encoders that can be used with MusicBee.
 
-![screenshot](screenshot.png)
+![screenshot](img/screenshot.png)  
+![screenshot2](img/screenshot2.png)
 
 # Installation
 1. Download zip from [releases](https://github.com/drequeary/musicbee-audio-encoder-pack/releases).
